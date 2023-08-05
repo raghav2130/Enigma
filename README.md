@@ -16,7 +16,7 @@ when we press a key, Electricity flows though it to the light bulb
 
 so lets say press a key, current goes to the plugboard, 
 there are
-6 connector wires, so 12 plugs need to be plugged 
+10 connector wires, so 20 plugs need to be plugged 
 there are 26 places to plug one end of a wire then 25 for second end
 then 24 for one end of second wire and 24 for second end and so on ......
 which comes down to 
@@ -27,12 +27,12 @@ different arrangemets.
 then current goes through rotors,
 Enigma machine has 3 rotors and 5 rotors to choose from 
 so 5x4x3 = 60 diffrent arrangements to choose the rotors
-and then each rotor can have certain initial rotaion
+and then each rotor can have certain initial rotation
 which can be 26 so for 3 of them 26x26x26
-Therefore we have 1054560 settings of rotors 
+Therefore we have 26x26x26x60 = 1054560 settings of rotors 
 
 the plug board connections are applied during input as well as output
-thus there is total of 158962555217826360000
+thus there is 1054560 x 150738274937250 = 158,962,555,217,826,360,000 possible Arrangements of the Enigma Machine
 
 ** when you could use 10 plug wires, in original version there were 6 plugboard wires **
 
