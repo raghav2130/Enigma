@@ -11,7 +11,7 @@ ufff.
 
 # Encryption Mechanism
 
-Firat of all all enigma is a simple electrical circuit.
+Firat of all enigma is a simple electrical circuit.
 when we press a key, Electricity flows though it to the light bulb
 
 so lets say press a key, current goes to the plugboard, 
