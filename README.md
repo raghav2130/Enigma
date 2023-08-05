@@ -21,7 +21,7 @@ there are 26 places to plug one end of a wire then 25 for second end
 then 24 for one end of second wire and 24 for second end and so on ......
 which comes down to 
 
-$$ {26! \over 6! * 10! * 2^(10) } = 150738274937250 $$
+$$ {26! \over 6! * 10! * 2^{10} } = 150738274937250 $$
 
 different arrangemets.
 then current goes through rotors,
