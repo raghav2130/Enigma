@@ -1,8 +1,8 @@
-# Enigma
+# ⚙️ Enigma
 
 Well those who don't know .. 
 
- # TL;DR
+# TL;DR
  
 The Enigma machine was a cryptographic device used to encrypt and decrypt secret messages during World War II and beyond.
 The Enigma machine was invented by the German engineer Arthur Scherbius in the early 20th century and was later adopted by various military and government organizations for secure communication.
